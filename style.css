@@ -1,0 +1,283 @@
+body{
+	background-color: #F2F2F2;
+	font-family: "Raleway", sans-serif;
+}
+/*title*/
+.title{
+	text-align: center;
+	color: black;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+/*text welcome...*/
+.subtitle{
+	text-align: center;
+	font-size: 15px;
+	font-weight: 300;
+}
+/*text unknown*/
+.subtitles{
+	border: 1px solid black;
+	padding: 1px 5px 2px 6px;
+	background-color: black;
+	color: white;
+}
+/*first left white block*/
+.blocks1{
+	margin-left: 3%;
+	margin-top: 5%;
+	float: left;
+	width: 60%;
+	height: 80%;
+	background-color: white;
+	box-shadow: 0 1px 10px 3px darkgrey;
+}
+.img1{
+	margin-top: -16px;
+	height: 25%;
+	width: 100%;
+}
+/*"Title heading/Blog Entry"*/
+.title1{
+	margin-left: 15px;
+	text-transform: uppercase;
+	font-weight: 600;
+	margin-top: -2px;
+	margin-bottom: -2.5px;
+	font-size: 25px;
+}
+/*"Title description"*/
+.subtitle1{
+	margin-left: 15px;
+	font-size: 18px;
+	
+}
+/*"April 7, 2014/ April 4, 2014"*/
+.subtitle11{
+	color: grey;
+}
+/*whole text*/
+.text1{
+	line-height: 1.5;
+	display: block;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	font-size: 14px;
+}
+/*button*/
+.button1{
+	width: 140px;
+	height: 50px;
+	background-color: white;
+	border-width: 1px;
+	border-color: Lightgrey;
+	box-shadow: none;
+	margin-left: 2%;
+	text-transform: uppercase;
+	text-shadow:grey 0.2px 0.2px 0.2px;
+	margin-top: 5%;
+	font-size: 15px;
+}
+/*button >>*/
+.button11{
+	font-size: 10px;
+	word-spacing: -4px;
+}
+/*comments*/
+.comment1{
+	margin-left: 60%;
+	font-weight:600;
+	font-size: 14px;
+}
+/*no. of comments*/
+.comment12{
+	background-color: black;
+	color: white;
+	padding: 3px 8px;
+	border-width: 1px;
+	margin-right: 3%;
+	margin-left: 1%;
+}
+
+
+
+/*second left white block*/
+.blocks2{
+	margin-left: 3%;
+	margin-top: 3%;
+	float: left;
+	width: 60%;
+	height: 80%;
+	background-color: white;
+	box-shadow: 0 1px 10px 3px darkgrey;
+}
+/*no of comments*/
+.comment22{
+	background-color: black;
+	color: white;
+	padding: 3px 8px;
+	border-width: 1px;
+	margin-right: 3%;
+	margin-left: 1%;
+}
+
+
+
+/*first right white block*/
+.blocks3{
+	margin-left: 3%;
+	margin-top: 5%;
+	float: left;
+	width: 30%;
+	height: 50%;
+	background-color: white;
+	box-shadow: 0 1px 7px 1px darkgrey;
+	font-size: 14px;
+}
+/*image from the right block top*/
+.img3{
+	margin-top: -16px;
+	height: 50%;
+	width: 100%;
+}
+/*title from the right block top (my name)*/
+.title3{
+	margin-left: 15px;
+	text-transform:capitalize ;
+	font-weight: 600;
+	font-size: 20px;
+	margin-top: -2px;
+	margin-bottom: -2.5px;
+}
+
+
+
+/*the block with 4 small images*/
+.block4{
+	border-spacing: 0;
+	margin-left: 3%;
+	margin-top: -6.5%;
+	margin-bottom: 3%;
+	float: left;
+	width: 30%;
+	background-color: white;
+	box-shadow: 0 1px 7px 1px darkgrey;
+}
+/*the table-block 4 images*/
+td{
+	border:0.1px solid #F3F2F2;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+/*title from the block 4 images*/
+.title4{
+	margin-left: 100px;
+	text-transform:capitalize ;
+	margin-top: -2px;
+	margin-bottom: -2.5px;
+	background-color: #F3F2F2;
+	font-size: 20px;	
+	padding-left: 15px;
+}
+/*subtitle from the block 4 images*/
+.subtitle4{
+	font-size: 17px;
+	padding-left: 15px;
+}
+/*subsubtitle from the block 4 images*/
+.subtitle44{
+	font-size: 14px;
+	padding-left: 15px;
+	line-height: 30px;
+}
+/*4 small images*/
+.img4{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-right: 10px;
+}
+
+
+
+/*the block with the tags*/
+.block5{
+	border-spacing: 0px 0px;
+	margin-left: 3%;
+	float: left;
+	width: 30%;
+	background-color: white;
+	box-shadow: 0px 1px 7px 1px darkgrey;
+	font-size: 17px;
+	word-spacing: 5px;
+}
+/*tags text*/
+.title5{
+	margin-left: 100px;
+	text-transform: capitalize;
+	margin-top: -2px;
+	margin-bottom: -2.5px;
+	background-color: #F3F2F2;
+	font-size: 20px;
+	width: 100%;
+}
+/*first tag*/
+.subtitle5{
+	font-size: 15px;
+	color: white;
+	background-color: black;
+	border: 1px solid black;
+	padding: 1px 4px 2px 4px;
+}
+/*every tag*/
+.subtitle55{
+	background-color: #F3F2F2;
+	border: 1px solid #F3F2F2;
+	padding: 1px;
+	font-size: 12px;
+}
+
+
+/*the footer block*/
+.block6{
+	height: 20%;
+	width: 99%;
+	background-color: #676666;
+	float: left;
+	margin-top: 50px;
+	font-size: 14px;
+	padding-left: 15px;
+	padding-top: 20px;
+	color: white;
+	line-height: 50px;
+}
+/*the first button*/
+.button6{
+	width: 95px;
+	height: 42px;
+	background-color: #535353;
+	border-width: 0.5px;
+	border-color: #535353;
+	font-size: 14px;
+	color: #A5A5A5;
+	margin-top:10px;
+}
+/*the second button*/
+.button66{
+	width: 85px;
+	height: 42px;
+	background-color: black;
+	border-width: 0.5px;
+	border-color: black;
+	font-size: 14px;
+	color: white;
+	margin-left: 2px;
+	margin-top: 10px;
+	padding-left: 10px;
+}
+/*the text under the buttons*/
+.tex{
+	text-decoration: underline;
+}
